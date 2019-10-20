@@ -1,0 +1,59 @@
+html{
+  min-height: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: linear-gradient(to right, rgba(3, 18, 138, 1), rgba(139, 174, 214, 0.33));
+}
+
+h4 {
+  //Welcome to
+  font-family:Arial;
+  text-align: center;
+  line-height: .5em;
+}
+
+h1{
+  //Closed circle
+  font-family:Arial;
+  text-align: center;
+  line-height: .5em;
+}
+
+h6 {
+  //Create a chatroom
+  font-family:Arial;
+  text-align: center;
+  line-height: .5em;
+}
+
+.button1 {
+  //Login
+  background-color: e7e7e7; color: black;
+  font-size: 8px;
+  padding: 12px 24px;
+  border-radius: 12px;
+  position:relative;
+  left: auto;
+}
+
+.button2 {
+  //Register
+  background-color: e7e7e7; color: black;
+  font-size: 8px;
+  padding: 12px 24px;
+  border-radius: 12px;
+  position:relative;
+  right: auto;
+}
+
+.button3 {
+  //Create
+  background-color: e7e7e7; color: black;
+  font-size: 12px;
+  padding: 14px 40px;
+  border-radius: 12px;
+  position: fixed;
+  bottom: auto;
+  right: auto;
+
+}
